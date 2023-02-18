@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "923075228022",
+    "project_id": "eldroid2app",
+    "storage_bucket": "eldroid2app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923075228022:android:19979f6ab51aeea13a8a57",
+        "android_client_info": {
+          "package_name": "com.example.eldroid2app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923075228022-0mkprnuvltpnfiub4otgo0bvlcn2u6su.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyNDOLc97Of30hs73TAb85TaxDj1Ri0_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923075228022-0mkprnuvltpnfiub4otgo0bvlcn2u6su.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
